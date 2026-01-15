@@ -177,8 +177,9 @@
                 </p>
             </div>
             <div class="col-lg-6 mb-4">
-                <img src="https://via.placeholder.com/600x400/FFB6C1/8B4513?text=Our+Bakery" 
-                     class="img-fluid rounded shadow" alt="Our Bakery">
+            <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop"
+     class="img-fluid rounded shadow"
+     alt="Our Bakery">
             </div>
         </div>
     </section>
